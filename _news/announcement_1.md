@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Sep 23 - Oct 15, 2024
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am currently visiting the Department of Economics at the Universidad Carlos III de Madrid.
