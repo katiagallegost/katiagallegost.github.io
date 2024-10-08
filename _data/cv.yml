@@ -22,54 +22,56 @@
       institution: University of Mannheim, Germany
       year: Jan 2019
       
+{% comment %}      
 - title: Experience
   type: time_table
   contents:
     - title: 
       institution: 
       year: 
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
-    #     - title: Description 3.
-    #       contents:
-    #         - Sub-description 1.
-    #         - Sub-description 2.
-    # - title: 
-    #   institution: 
-    #   year: 
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: 
+      institution: 
+      year: 
+      description:
+        - Description 1.
+        - Description 2.
 
-    # - title: 
-    #   institution: 
-    #   year:
+    - title: 
+      institution: 
+      year:
 
 
 - title: Honors and Awards
-  # type: time_table
-  # contents:
-  #   - year: 
-  #     items:
-  #       -
-  #   - year: 
-  #     items:
-  #       - 
+  type: time_table
+  contents:
+    - year: 
+      items:
+        -
+    - year: 
+      items:
+        - 
 
 - title: Academic Interests
- # type: nested_list
- # contents:
- #   - title: Topic 1.
- #     items:
- #       - Description 1.
- #       - Description 2.
- #   - title: Topic 2.
- #     items:
- #       - Description 1.
- #       - Description 2.
+ type: nested_list
+ contents:
+   - title: Topic 1.
+     items:
+       - Description 1.
+       - Description 2.
+   - title: Topic 2.
+     items:
+       - Description 1.
+       - Description 2.
 
-#- title: Other Interests
-#  type: list
-#  contents:
- #   - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Other Interests
+ type: list
+ contents:
+   - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+{% endcomment %}
