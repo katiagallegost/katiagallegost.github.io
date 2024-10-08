@@ -23,4 +23,4 @@ I am a PhD candidate in Economics at the University of Innsbruck and a postdocto
 
 My research focuses on the integration of migrants and their socio-economic impact on host countries. I am interested in the economics of migration, labor economics, and political economy.
 
-You can download my CV <a href='https://katiagallegost.github.io/assets/pdf/KatiaGallegos_CVenglish_Oct24.pdf' target='_self'>here</a>.
+You can download my CV <a href="https://katiagallegost.github.io/assets/pdf/KatiaGallegos_CVenglish_Oct24.pdf">here</a>.
