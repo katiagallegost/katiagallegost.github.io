@@ -1,12 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Katia Gallegos Torres
-    - name: Date of Birth
+    - name: First Name
+      value: Katia
+    - name: Last Name
+      value: Gallegos Torres
+    - name: Year of Birth
       value: 1991
     - name: Languages
-      value: Spanish, English, German
+      value: Spanish (native), English (fluent), German (fluent)
 
 - title: Education
   type: time_table
@@ -15,74 +17,59 @@
       institution: University of Innsbruck, Austria
       year: in progress
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: M.Sc. Economics
+        - Thesis: Essays on Immigration and Integration
+     - title: M.Sc. Economics
       institution: University of Mannheim, Germany
       year: Jan 2019
-      description:
-        - Description 1.
-        - Description 2.
-
+      
 - title: Experience
   type: time_table
   contents:
     - title: 
       institution: 
       year: 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: 
-      institution: 
-      year: 
-      description:
-        - Description 1.
-        - Description 2.
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    # - title: 
+    #   institution: 
+    #   year: 
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
-    - title: 
-      institution: 
-      year:
+    # - title: 
+    #   institution: 
+    #   year:
 
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: 
-      year: 
-      description:
 
 - title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 
-      items:
-        -
-    - year: 
-      items:
-        - 
+  # type: time_table
+  # contents:
+  #   - year: 
+  #     items:
+  #       -
+  #   - year: 
+  #     items:
+  #       - 
 
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+ # type: nested_list
+ # contents:
+ #   - title: Topic 1.
+ #     items:
+ #       - Description 1.
+ #       - Description 2.
+ #   - title: Topic 2.
+ #     items:
+ #       - Description 1.
+ #       - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+ #   - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
