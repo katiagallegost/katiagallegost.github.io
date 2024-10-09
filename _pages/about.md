@@ -17,9 +17,9 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<b>Welcome!</b>
+<strong>Welcome!</strong>
 
-I am a PhD candidate in Economics at the University of Innsbruck and a postdoctoral researcher at the [IAB Nuremberg](https://iab.de/en/employee/gallegos-torres-katia/).
+I am a PhD candidate in Economics at the University of Innsbruck, a postdoctoral researcher at the [IAB Nuremberg](https://iab.de/en/employee/gallegos-torres-katia/), and a researcher at [ZEW Mannheim](https://www.zew.de/en/team/kgt).
 
 My research focuses on the integration of migrants and their socio-economic impact on host countries. I am interested in the economics of migration, labor economics, and political economy.
 
