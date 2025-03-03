@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: KatiaGallegos_CVenglish_Oct24.pdf
+cv_pdf: 7_KatiaGallegos_CVenglish_Jan25.pdf
 description: 
 toc:
   sidebar: 
