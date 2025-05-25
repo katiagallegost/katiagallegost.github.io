@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-24
+date: 2025-05-01
 inline: true
 related_posts: false
 ---
 
-Our third (and last) [Workshop on Immigration, Integration, and Attitudes](https://www.zew.de/en/events-and-professional-training/detail/third-workshop-on-immigration-integration-and-attitudes-1/4373?cHash=2b67e5982c7696f0eec36e3eabfe2cde) is taking place in Mannheim.
+Upcoming talks: 6th Workshop on the Economics and Politics of Migration (Madrid), EAERE (Bergen), SOLE-EALE-AASLE (Toronto), EEA (Bordeaux), Verein für Socialpolitik (Cologne)
