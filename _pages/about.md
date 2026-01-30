@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 ---
 <strong>Welcome!</strong>
 
-I am a postdoctoral researcher at the [IAB Nuremberg](https://iab.de/en/employee/gallegos-torres-katia/), and at [ZEW Mannheim](https://www.zew.de/en/team/kgt). I obtained my PhD Economics at the University of Innsbruck in December 2024. 
+I am a postdoctoral researcher at the [IAB Nuremberg](https://iab.de/en/employee/gallegos-torres-katia/), and at [ZEW Mannheim](https://www.zew.de/en/team/kgt). I'm also a Research Affiliate at [RFBerlin](https://www.rfberlin.com/author/kgallego/) and I'm a member of the [OECD-LinkEED](https://www.oecd.org/en/about/projects/linkeed-200.html) network. I obtained my PhD Economics at the University of Innsbruck in December 2024. 
 
 My research focuses on the integration of migrants and their socio-economic impact on host countries. I am interested in the economics of migration, labor economics, and political economy.
 
-You can download my CV <a href="https://katiagallegost.github.io/assets/pdf/7_KatiaGallegos_CVenglish_Jan25.pdf">here</a>.
+You can download my CV <a href="https://katiagallegost.github.io/assets/pdf/7_KatiaGallegos_CVenglish_Jan26.pdf">here</a>.
