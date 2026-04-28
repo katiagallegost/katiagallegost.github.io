@@ -24,3 +24,5 @@ I am a postdoctoral researcher at the [IAB Nuremberg](https://iab.de/en/employee
 My research focuses on the integration of migrants and their socio-economic impact on host countries. I am interested in the economics of migration, labor economics, and political economy.
 
 You can download my CV <a href="https://katiagallegost.github.io/assets/pdf/KatiaGallegos_CVenglish_Apr26.pdf">here</a>.
+
+<strong>Kind request:</strong> My family name is <strong>"Gallegos Torres"</strong>. Please cite my work using both surnames; if only one can be used, please use “Gallegos”.
