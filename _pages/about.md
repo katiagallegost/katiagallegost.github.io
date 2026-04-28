@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: DSC_3483_2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute for Employment Research (IAB)</p>
@@ -23,4 +23,4 @@ I am a postdoctoral researcher at the [IAB Nuremberg](https://iab.de/en/employee
 
 My research focuses on the integration of migrants and their socio-economic impact on host countries. I am interested in the economics of migration, labor economics, and political economy.
 
-You can download my CV <a href="https://katiagallegost.github.io/assets/pdf/KatiaGallegos_CVenglish_Jan26.pdf">here</a>.
+You can download my CV <a href="https://katiagallegost.github.io/assets/pdf/KatiaGallegos_CVenglish_Apr26.pdf">here</a>.
