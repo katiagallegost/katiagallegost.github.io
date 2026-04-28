@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-01
+date: 2026-04-01
 inline: true
 related_posts: false
 ---
 
-Upcoming talks: 6th Workshop on the Economics and Politics of Migration (Madrid), EAERE (Bergen), SOLE-EALE-AASLE (Toronto), EEA (Bordeaux), Verein für Socialpolitik (Cologne)
+I am currently on maternity leave until approximately the end of 2026, with limited availability during this time.
